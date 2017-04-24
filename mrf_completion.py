@@ -2,7 +2,8 @@
 """
 Created on Thu Mar 30 14:35:26 2017
 
-@author: carmonda
+@author: carmonda (infrastructure)
+@author: talstr (BPF implementation)
 """
 import sys
 from scipy import misc
