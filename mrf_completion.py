@@ -3,7 +3,7 @@
 Created on Thu Mar 30 14:35:26 2017
 
 @author: carmonda (infrastructure)
-@author: talstr (BPF implementation)
+@author: talstr (LBP implementation)
 """
 import sys
 from scipy import misc
@@ -11,7 +11,7 @@ import numpy as np
 
 VALUES = range(0, 256)
 VMAX = 50
-EPOCHS = 50
+EPOCHS = 17
 SAVE_ITERS = False
 RECTANGLE_BORD = (92,106,13,93)
 
